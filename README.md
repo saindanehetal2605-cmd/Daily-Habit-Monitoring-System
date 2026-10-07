@@ -56,3 +56,8 @@ The application uses MySQL to store user accounts, habits, and daily habit recor
 Project Purpose
 
 The main purpose of this project is to help users develop good habits and monitor their daily progress efficiently.
+
+
+𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝘿𝙚𝙢𝙤 𝙑𝙞𝙙𝙚𝙤
+
+https://drive.google.com/file/d/1X0_Mg_9RJGYKFlG1hjuCQSJ7Ol_7g4x_/view?usp=drivesdk
